@@ -105,6 +105,7 @@ const controlAddRecipe = async function (newRecipe) {
     recipeView.render(model.state.recipe);
 
     // Success message
+    // check
     // addRecipeView.renderMessage();
 
     // Render bookmark view
